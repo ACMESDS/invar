@@ -5,7 +5,7 @@ var															// shortcuts
 	Copy = ENUM.copy,
 	Each = ENUM.each;
 
-var TEMP = module.exports = {
+var INVAR = module.exports = {
 	
 	// options
 	
@@ -13,7 +13,7 @@ var TEMP = module.exports = {
 
 	config: function (opts) {  // configure the module
 	
-		if (opts) Copy(opts, TEMP);
+		if (opts) Copy(opts, INVAR);
 		
 	},
 	

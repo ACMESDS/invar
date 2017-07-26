@@ -1,0 +1,19 @@
+{
+  "name": "invar",
+  "version": "1.0.0",
+  "description": "Template interface for TOTEM modules",
+  "main": "invar.js",
+  "scripts": {
+    "test": "node test.js X1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acmesds/invar.git"
+  },
+  "author": "totem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acmesds/invar/issues"
+  },
+  "homepage": "https://github.com/acmesds/invar#readme"
+}
